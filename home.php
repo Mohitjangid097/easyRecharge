@@ -9,8 +9,7 @@
 <html>
 
 <head>
-    <title>Easy Recharge : Home : User Panel
-    </title>
+    <title>Easy Recharge : Home : User Panel</title>
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
