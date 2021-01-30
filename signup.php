@@ -24,4 +24,5 @@
         $reg = mysqli_query($con," insert into registration (name, username, email, password) values ('$name','$username','$email','$password')");
         echo '<script>alert("Registration Successfully")</script>';
     }
+    
 ?>

@@ -13,8 +13,7 @@ $mysqli->close();
 <html>
 
 <head>
-    <title>Easy Recharge : Admin Panel
-    </title>
+    <title>Easy Recharge : Admin Panel </title>
 
     <link href="../css/bootstrap.css" rel="stylesheet">
     <link href="../css/style.css" rel="stylesheet" type="text/css" media="all">
